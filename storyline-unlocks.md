@@ -8,10 +8,10 @@ grand_parent: Pokemon
 
 ### Path of Legends (Titans)
 
-| Titan  |Movement Ability|
-|--------|----|
-| First  |Dash|
-| Second |Swim|
-| Third  |   |
-| Fourth |   |
-| Fifth  |   |
+| Titan      |Type    |Movement Ability|
+|------------|--------|----------------|
+| Klawf      | Rock   | Dash           |
+| Bombirdier | Flying | Swim           |
+| Orthoworm  | Steel  | High Jump      |
+| Great Tusk | Ground | Gliding        |
+| Dondozo    | Water  | Climb          |
