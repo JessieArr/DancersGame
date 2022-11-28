@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Pokemon Scarlet Violet
 parent: Pokemon
 nav-order: 1
