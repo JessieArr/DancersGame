@@ -6,4 +6,12 @@ grand_parent: Pokemon
 ---
 # Storyline Unlocks
 
-Removed
+### Path of Legends (Titans)
+
+| Titan  |Movement Ability|
+|--------|----|
+| First  |Dash|
+| Second |Swim|
+| Third  |   |
+| Fourth |   |
+| Fifth  |   |
