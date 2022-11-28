@@ -1,5 +1,5 @@
 ---
-title: "Hello, World!"
-parent: "Pokemon"
+title: Hello, World!
+parent: Pokemon
 ---
 # Hello, World!
