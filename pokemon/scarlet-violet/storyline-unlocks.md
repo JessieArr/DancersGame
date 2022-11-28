@@ -4,7 +4,6 @@ nav_order: 1
 parent: Scarlet Violet
 grand_parent: Pokemon
 ---
-# Storyline Unlocks
 
 1. TOC
 {:toc}
