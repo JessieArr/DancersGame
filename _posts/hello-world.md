@@ -1,5 +1,5 @@
 ---
 title: "Hello, World!"
-nav_order: 2
+parent: "Pokemon"
 ---
 # Hello, World!
