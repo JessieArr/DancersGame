@@ -11,7 +11,7 @@ kramdown:
   syntax_highlighter: rouge
 
 remote_theme: just-the-docs/just-the-docs
-logo: "/images/spyglass-sign-wide.jpg"
+logo: "/images/logo.jpg"
 search_enabled: true
 # Split pages into sections that can be searched individually
 # Supports 1 - 6, default: 2
