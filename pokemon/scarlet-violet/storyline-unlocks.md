@@ -10,13 +10,13 @@ grand_parent: Pokemon
 
 ### Path of Legends (Titans)
 
-| Titan      |Type    |Movement Ability|
-|------------|--------|----------------|
-| Klawf      | Rock   | Dash           |
-| Bombirdier | Flying | Swim           |
-| Orthoworm  | Steel  | High Jump      |
-| Great Tusk | Ground | Gliding        |
-| Dondozo    | Water  | Climb          |
+| Titan                  |Type    | Recommended Level |Movement Ability |
+|------------------------|--------|-------------------|-----------------|
+| Klawf                  | Rock   | 16                | Dash            |
+| Bombirdier             | Flying | 20                | Swim            |
+| Orthoworm              | Steel  | 20                | High Jump       |
+| Great Tusk/Iron Treads | Ground | 45                | Gliding         |
+| Dondozo                | Water  | 57                | Climb           |
 
 ### Starfall Street (Team Star)
 
