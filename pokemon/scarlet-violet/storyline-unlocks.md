@@ -5,6 +5,8 @@ parent: Scarlet Violet
 grand_parent: Pokemon
 ---
 # Storyline Unlocks
+
+1. TOC
 {:toc}
 
 ### Path of Legends (Titans)
