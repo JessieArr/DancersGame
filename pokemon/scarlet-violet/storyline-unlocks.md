@@ -5,6 +5,7 @@ parent: Scarlet Violet
 grand_parent: Pokemon
 ---
 # Storyline Unlocks
+{:toc}
 
 ### Path of Legends (Titans)
 
@@ -42,3 +43,15 @@ Note that you can do the gyms in a different order if you choose. The Pokemon ob
 | Glaseado Gym          | Ice      | 48              | all |
 | Pokemon League        | -        | 62              | - |
 | Challenge from Nemona | -        | 66              | - |
+
+### Tera Raids
+
+| Star | Unlock Method           | Pokemon Level |
+|------|-------------------------|---------------|
+| 1    | Complete Tutorial       | 12            |
+| 2    | Complete Tutorial       | 20            |
+| 3    | 4 Gym Badges            | 35            |
+| 4    | 8 Gym Badges            | 45            |
+| 5    | Beat Elite 4 & Champion | 75            |
+| 6    | Win Academy Ace Tournament + Complete 10 5-star Raids in Overworld | 75 |
+| 7    | Postgame + Event        | ???            |
