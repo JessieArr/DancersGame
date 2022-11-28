@@ -1,6 +1,6 @@
 ---
-title: Test
+title: Pokemon
 nav_order: 2
 has_children: true
 ---
-# Test
+# Pokemon
