@@ -1,7 +1,7 @@
 ---
-title: Test 2
+title: Scarlet Violet
 nav_order: 2
 has_children: true
 parent: Pokemon
 ---
-# Test 2
+# Scarlet Violet
