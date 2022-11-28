@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pokemon Scarlet & Violet
+title: Pokemon Scarlet Violet
 parent: Pokemon
 has-children: true
 ---
