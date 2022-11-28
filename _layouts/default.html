@@ -205,7 +205,8 @@ layout: table_wrappers
         {% endif %}
 
       </div>
-      {% if page.hide_comments != false %}
+      {% if page.hide_comments %}
+      {% else %}
         <div id="disqus_thread"></div>
         <script>
             /**
