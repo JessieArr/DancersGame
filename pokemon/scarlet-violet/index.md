@@ -2,6 +2,7 @@
 layout: default
 title: Pokemon Scarlet Violet
 parent: Pokemon
+nav-order: 1
 has-children: true
 ---
 # Pokemon Scarlet and Violet
