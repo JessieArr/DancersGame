@@ -6,4 +6,4 @@ nav-order: 1
 has-children: true
 ---
 # Pokemon Scarlet and Violet
-Pokemon Scarlet and Violet are the 8th generation of Pokemon.
+Pokemon Scarlet and Violet are the 8th generation of Pokemon...
