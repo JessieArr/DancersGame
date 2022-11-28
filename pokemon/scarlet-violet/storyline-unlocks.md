@@ -51,8 +51,8 @@ Note that you can do the gyms in a different order if you choose. The Pokemon ob
 |------|-------------------------|---------------|
 | 1    | Complete Tutorial       | 12            |
 | 2    | Complete Tutorial       | 20            |
-| 3    | 4 Gym Badges            | 35            |
-| 4    | 8 Gym Badges            | 45            |
+| 3    | 3+ Gym Badges           | 35            |
+| 4    | 7+(?) Gym Badges        | 45            |
 | 5    | Beat Elite 4 & Champion | 75            |
 | 6    | Win Academy Ace Tournament + Complete 10 5-star Raids in Overworld | 75 |
 | 7    | Postgame + Event        | ???            |
