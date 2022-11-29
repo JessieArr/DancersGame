@@ -13,3 +13,4 @@ grand_parent: Pokemon
 - [Ranked Boost](https://rankedboost.com/pokemon-scarlet-violet/)
 - [Serebii](https://serebii.net/)
 - [Pokemon Type Helper](https://www.pkmn.help/defense/)
+- [Pokemon DB Breeding Guide](https://pokemondb.net/mechanics/breeding)
