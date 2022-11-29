@@ -4,6 +4,10 @@ nav_order: 2
 parent: Scarlet & Violet
 grand_parent: Pokemon
 ---
+
+1. TOC
+{:toc}
+
 ### How to Breed in Scarlet/Violet
 
 Breeding in Pokemon SV is done in the Picnic mechanic. Any time two Pokemon with compatible egg groups are in a picnic together, there is a random chance over time to generate an egg in the picnic basket at the end of your picnic table. Simply walk to it and press A to check for eggs.
