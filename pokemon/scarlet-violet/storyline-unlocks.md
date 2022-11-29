@@ -1,7 +1,7 @@
 ---
 title: Storyline Unlocks
 nav_order: 1
-parent: Scarlet Violet
+parent: Scarlet & Violet
 grand_parent: Pokemon
 ---
 
