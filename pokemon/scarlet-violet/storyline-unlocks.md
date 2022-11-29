@@ -55,4 +55,25 @@ Note that you can do the gyms in a different order if you choose. The Pokemon ob
 | 4    | 7+(?) Gym Badges        | 45            |
 | 5    | Beat Elite 4 & Champion | 75            |
 | 6    | Win Academy Ace Tournament + Complete 10 5-star Raids in Overworld | 75 |
-| 7    | Postgame + Event        | ???            |
+| 7    | Postgame + Event        | ???           |
+
+### Pokemon League Representatives
+Being rewarded a TM by a Pokemon League Rep also unlocks it for crafting.
+
+| Location                     | Recommended Level | Reward              |
+|------------------------------|-------------------|---------------------|
+| South Province Area One      | 8                 | TM082: Thunder Wave |
+| South Province Area Two      | ??                | TM027: Aerial Ace   |
+| South Province Area Three    | ??                | Shell Bell          |
+| South Province Area Four     | ??                | Rocky Helmet        |
+| South Province Area Five     | ??                | Eviolite            |
+| East Province Area One       | ??                | Loaded Dice         |
+| East Province Area Two       | ??                | Stomping Tantrum    |
+| East Province Area Three     | ??                | Punching Gloves     |
+| West Province Area One       | ??                | Clear Amulet        |
+| West Province Area Two       | ??                | Focus Sash          |
+| West Province Area Three     | 30                | Amulet Coin         |
+| Asado Desert                 | ??                | Earthquake          |
+| North Province Area One      | ??                | TM150: Stone Edge   |
+| North Province Area Two      | ??                | ??                  |
+| North Province Area Three    | ??                | TM: Leaf Storm      |
