@@ -1,7 +1,7 @@
 ---
 title: Useful Links
 nav_order: 2
-parent: Scarlet Violet
+parent: Scarlet & Violet
 grand_parent: Pokemon
 ---
 ### Scarlet/Violet-Specific Links
