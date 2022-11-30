@@ -14,3 +14,5 @@ grand_parent: Pokemon
 - [Serebii](https://serebii.net/)
 - [Pokemon Type Helper](https://www.pkmn.help/defense/)
 - [Pokemon DB Breeding Guide](https://pokemondb.net/mechanics/breeding)
+
+foo
