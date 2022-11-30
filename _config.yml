@@ -1,6 +1,6 @@
 title: Dancer's Game
 lsi: false
-safe: true
+safe: false
 source: /
 incremental: false
 highlighter: rouge
