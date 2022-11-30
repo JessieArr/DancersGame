@@ -38,7 +38,7 @@ Eggs can be used to increase the speed at which your pokemon lay eggs. You start
 | Item              | Where to Get                   | What it Does                                              |
 |-------------------|--------------------------------|-----------------------------------------------------------|
 | Silver Bottle Cap | Delibird Presents, Raid Drops  | Boosts a single IV to max.                                |
-| Gold Bottle Cap   | Porto Marinada Auction         | Boosts a single IV to max.                                |
+| Gold Bottle Cap   | Porto Marinada Auction         | Boosts all IVs to max.                                |
 | Ability Capsule   | Tera Raids                     | Changes a Pokemon's ability to its other standard Ability |
 | Ability Patch     | Tera Raids                     | Changes a Pokemon's ability to its Hidden Ability         |
 | Nature Mints      | Chansey's Goods                | Changes a Pokemon's nature to the one in the mint's name. |

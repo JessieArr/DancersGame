@@ -75,5 +75,5 @@ Being rewarded a TM by a Pokemon League Rep also unlocks it for crafting.
 | West Province Area Three     | 30                | Amulet Coin              |
 | Asado Desert                 | ??                | TM149: Earthquake        |
 | North Province Area One      | ??                | TM150: Stone Edge        |
-| North Province Area Two      | ??                | ??                       |
+| North Province Area Two      | 24                | ??                       |
 | North Province Area Three    | ??                | TM159: Leaf Storm        |
