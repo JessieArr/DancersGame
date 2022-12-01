@@ -2,6 +2,7 @@ title: Dancer's Game
 lsi: false
 safe: false
 source: ./
+destination: ./docs
 incremental: false
 highlighter: rouge
 gist:

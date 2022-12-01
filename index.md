@@ -1,6 +1,7 @@
 ---
 title: Welcome
 hide_comments: true
+layout: default
 ---
 
 # Welcome
