@@ -12,7 +12,7 @@ link_pokemon_names: true
 | Stunky, Skuntank             | ???          | Misdreavus, Mismagius       | ??? |
 | Drifloon, Drifblim           | ???          | Gulpin, Swalot              | ??? |
 | Larvitar, Pupitar, Tyranitar | ???          | Bagon, Shelgon, Salamence   | ??? |
-| Deino, Sweilous, Hydreigon   | ???          | Dreepy, Drakloak, Dragapult | ??? |
+| Deino, Zweilous, Hydreigon   | ???          | Dreepy, Drakloak, Dragapult | ??? |
 | Skrelp, Dragalge             | ???          | Clauncher, Clawitzer        | ??? |
 | Oranguru                     | ???          | Passimian                   | ??? |
 | Stonjourner                  | ???          | Eiscue                      | ??? |
