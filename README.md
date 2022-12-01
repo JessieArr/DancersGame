@@ -7,3 +7,5 @@ To run Jekyll locally:
 - Run `gem install jekyll bundler`
 - Wait a long time
 - `jekyll -v` to ensure Jekyll is installed.
+- `bundle install` to download gems from `Gemfile`
+- `jekyll b` to run a local build outputting compiled files to `./docs`
