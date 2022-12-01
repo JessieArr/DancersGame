@@ -14,7 +14,7 @@ grand_parent: Pokemon
 |------------------------|--------|-------------------|-----------------|
 | Klawf                  | Rock   | 16                | Dash            |
 | Bombirdier             | Flying | 20                | Swim            |
-| Orthoworm              | Steel  | 20                | High Jump       |
+| Orthoworm              | Steel  | 28                | High Jump       |
 | Great Tusk/Iron Treads | Ground | 45                | Gliding         |
 | Dondozo                | Water  | 57                | Climb           |
 
