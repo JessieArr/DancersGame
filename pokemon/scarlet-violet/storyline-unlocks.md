@@ -3,6 +3,7 @@ title: Storyline Unlocks
 nav_order: 1
 parent: Scarlet & Violet
 grand_parent: Pokemon
+link_pokemon_names: true
 ---
 
 1. TOC

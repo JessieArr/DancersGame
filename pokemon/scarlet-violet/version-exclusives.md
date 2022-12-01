@@ -3,6 +3,7 @@ title: Version Exclusive Pokemon
 nav_order: 3
 parent: Scarlet & Violet
 grand_parent: Pokemon
+link_pokemon_names: true
 ---
 
 

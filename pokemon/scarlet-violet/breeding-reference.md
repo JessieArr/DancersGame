@@ -3,6 +3,7 @@ title: Breeding Reference
 nav_order: 2
 parent: Scarlet & Violet
 grand_parent: Pokemon
+link_pokemon_names: true
 ---
 
 1. TOC
