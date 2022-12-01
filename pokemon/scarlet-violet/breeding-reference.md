@@ -45,10 +45,15 @@ Eggs can be used to increase the speed at which your pokemon lay eggs. You start
 | Ability Patch     | Tera Raids                     | Changes a Pokemon's ability to its Hidden Ability         |
 | Nature Mints      | Chansey's Goods                | Changes a Pokemon's nature to the one in the mint's name. |
 | Mirror Herb       | Delibird Presents (Cascarrafa) | Allows a pokemon to fill empty ability slots with egg moves from other Pokemon during picnics |
+
+### EV Training
+
+| Item              | Where to Get                   | What it Does                                              |
+|-------------------|--------------------------------|-----------------------------------------------------------|
 | Protein           | Chansey's Goods/Tera Raids     | Increases Attack EVs by 10                                |
 | Calcium           | Chansey's Goods/Tera Raids     | Increases Special Attack EVs by 10                        |
 | Iron              | Chansey's Goods/Tera Raids     | Increases Defense EVs by 10                               |
-| Zinc              | Chansey's Goods/Tera Raids     | Increases Special Defense EVs by                          |
+| Zinc              | Chansey's Goods/Tera Raids     | Increases Special Defense EVs by 10                       |
 | HP Up             | Chansey's Goods/Tera Raids     | Increases HP EVs by 10                                    |
 | Carbos            | Chansey's Goods/Tera Raids     | Increases Speed EVs by 10                                 |
 | Power Bracer      | Delibird Presents              | Boosts Attack EVs gained after battle                     |
@@ -57,3 +62,15 @@ Eggs can be used to increase the speed at which your pokemon lay eggs. You start
 | Power Band        | Delibird Presents              | Boosts Special Defense EVs gained after battle            |
 | Power Weight      | Delibird Presents              | Boosts HP EVs gained after battle                         |
 | Power Anklet      | Delibird Presents              | Boosts Speed EVs gained after battle                      |
+
+### EV Removal
+If you've trained EVs you don't want, use these berries to get rid of them. Note that the first berry immediately reduces EVs to 100 if they are above 100, so you need a maximum of 11 to fully reset a stat:
+
+| Item              | Where to Get                                         | What it Does                       |
+|-------------------|------------------------------------------------------|------------------------------------|
+| Kelpsy            | Tera Raids/Sparkling Pickups in East Province Area 2 | Decreases Attack EVs by 10         |
+| Hondew            | Tera Raids/Sparkling Pickups in East Province Area 2 | Decreases Special Attack EVs by 10 |
+| Qualot            | Tera Raids/Sparkling Pickups in East Province Area 1 | Decreases Defense EVs by 10        |
+| Grepa             | Tera Raids/Sparkling Pickups in East Province Area 1 | Decreases Special Defense EVs by 10|
+| Pomeg             | Tera Raids/Sparkling Pickups in East Province Area 2 | Decreases HP EVs by 10             |
+| Tamato            | Tera Raids/Sparkling Pickups in East Province Area 1 | Decreases Speed EVs by 10          |
