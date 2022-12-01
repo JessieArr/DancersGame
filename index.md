@@ -2,6 +2,7 @@
 title: Welcome
 hide_comments: true
 layout: default
+permalink: /
 ---
 
 # Welcome

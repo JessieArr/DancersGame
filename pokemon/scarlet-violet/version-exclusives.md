@@ -4,6 +4,7 @@ nav_order: 3
 parent: Scarlet & Violet
 grand_parent: Pokemon
 link_pokemon_names: true
+permalink: /pokemon/scarlet-violet/version-exclusives/
 ---
 
 

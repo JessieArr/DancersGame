@@ -3,6 +3,7 @@ title: Useful Links
 nav_order: 2
 parent: Scarlet & Violet
 grand_parent: Pokemon
+permalink: /pokemon/scarlet-violet/useful-links/
 ---
 ### Scarlet/Violet-Specific Links
 - [Community-Made Interactive Map](https://mapgenie.io/pokemon-scarlet-violet/maps/paldea-region)
