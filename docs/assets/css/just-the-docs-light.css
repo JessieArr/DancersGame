@@ -408,7 +408,7 @@ figure, pre { margin: 0; }
 
 li { margin: 0.25em 0; }
 
-img { max-width: 100%; height: auto; }
+img { max-width: 100%; }
 
 hr { height: 1px; padding: 0; margin: 2rem 0; background-color: #eeebee; border: 0; }
 
