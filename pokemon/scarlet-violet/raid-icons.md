@@ -9,6 +9,7 @@ permalink: /pokemon/scarlet-violet/raid-icons/
 
 | Type              |Map Icon | Raid Screen Icon              | Hat |
 |------------------------------|--------------|-----------------------------|---------------|
+| Bug | ??? | ![bug-icon](/images/pokemon/scarlet-violet/bug-raid-icon.jpg){: height="100px"} | ![bug-icon](/images/pokemon/scarlet-violet/bug-raid-hat.jpg){: height="100px"} |
 | Fairy | ??? | ![fairy-icon](/images/pokemon/scarlet-violet/fairy-raid-icon.jpg){: height="100px"} | ![fairy-icon](/images/pokemon/scarlet-violet/fairy-raid-hat.jpg){: height="100px"} |
 | Ghost | ??? | ![ghost-icon](/images/pokemon/scarlet-violet/ghost-raid-icon.jpg){: height="100px"} | ![ghost-icon](/images/pokemon/scarlet-violet/ghost-raid-hat.jpg){: height="100px"} |
 | Grass | ??? | ![grass-icon](/images/pokemon/scarlet-violet/grass-raid-icon.jpg){: height="100px"} | ![grass-icon](/images/pokemon/scarlet-violet/grass-raid-hat.jpg){: height="100px"} |
