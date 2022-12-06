@@ -19,6 +19,7 @@ permalink: /pokemon/scarlet-violet/storyline-unlocks/
 | Orthworm               | Steel  | 28                | High Jump       |
 | Great Tusk/Iron Treads | Ground | 45                | Gliding         |
 | Dondozo                | Water  | 57                | Climb           |
+| Challenge from Arven   | -      | 62                | -               |
 
 ### Starfall Street (Team Star)
 
