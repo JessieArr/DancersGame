@@ -21,7 +21,7 @@ Below is a list of the different Tera Raid icons that tell you what type your're
 | Ground | Water, Grass, Ice | ![ground-icon](/images/pokemon/scarlet-violet/ground-raid-icon.jpg){: height="100px"} | ![ground-icon](/images/pokemon/scarlet-violet/ground-raid-hat.jpg){: height="100px"} |
 | Fighting | Flying, Psychic, Fairy | ![fighting-icon](/images/pokemon/scarlet-violet/fighting-raid-icon.jpg){: height="100px"} | ![fighting-icon](/images/pokemon/scarlet-violet/fighting-raid-hat.jpg){: height="100px"} |
 | Flying | Rock, Electric, Ice | ![flying-icon](/images/pokemon/scarlet-violet/flying-raid-icon.jpg){: height="100px"} | ![flying-icon](/images/pokemon/scarlet-violet/flying-raid-hat.jpg){: height="100px"} |
-| Ice | Fighting, Rock, Steel, Fire | ![ice-icon](/images/pokemon/scarlet-violet/flying-raid-icon.jpg){: height="100px"} | ![flying-icon](/images/pokemon/scarlet-violet/flying-raid-hat.jpg){: height="100px"} |
+| Ice | Fighting, Rock, Steel, Fire | ![ice-icon](/images/pokemon/scarlet-violet/ice-raid-icon.jpg){: height="100px"} | ![ice-icon](/images/pokemon/scarlet-violet/ice-raid-hat.jpg){: height="100px"} |
 | Normal | Fighting | ![normal-icon](/images/pokemon/scarlet-violet/normal-raid-icon.jpg){: height="100px"} | ![normal-icon](/images/pokemon/scarlet-violet/normal-raid-hat.jpg){: height="100px"} |
 | Poison | Ground, Psychic | ![poison-icon](/images/pokemon/scarlet-violet/poison-raid-icon.jpg){: height="100px"} | ![poison-icon](/images/pokemon/scarlet-violet/poison-raid-hat.jpg){: height="100px"} |
 | Psychic | Bug, Ghost, Dark | ![psychic-icon](/images/pokemon/scarlet-violet/psychic-raid-icon.jpg){: height="100px"} | ![psychic-icon](/images/pokemon/scarlet-violet/psychic-raid-hat.jpg){: height="100px"} |
