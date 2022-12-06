@@ -17,9 +17,9 @@
     "url": "/pokemon/",
     "relUrl": "/pokemon/"
   },"3": {
-    "doc": "Raid Icons and Images",
-    "title": "Raid Icons and Images",
-    "content": "| Type | Map Icon | Raid Screen Icon | Hat | . | Bug | ??? | | | . | Fairy | ??? | | | . | Fire | ??? | | | . | Ghost | ??? | | | . | Grass | ??? | | | . | Ground | ??? | | | . | Flying | ??? | | | . | Normal | ??? | | | . | Rock | ??? | | | . | Steel | ??? | | | . ",
+    "doc": "Tera Raid Icons & Image Reference",
+    "title": "Tera Raid Icons & Image Reference",
+    "content": "Below is a list of the different Tera Raid icons that tell you what type your’re facing, along with an image of the Tera type hat the Pokemon will have in battle. This should help you to quickly identify and counter your enemy! . | Type | Weak To | Raid Screen Icon | Hat | . | Bug | Flying, Rock, Fire | | | . | Dark | Fighting, Bug, Fairy | | | . | Dragon | Ice, Dragon, Fairy | | | . | Electric | Ground | | | . | Fairy | Poison, Steel | | | . | Fire | Ground, Rock, Water | | | . | Ghost | Ghost, Dark | | | . | Grass | Flying, Poison, Bug, Fire, Ice | | | . | Ground | Water, Grass, Ice | | | . | Fighting | Flying, Psychic, Fairy | | | . | Flying | Rock, Electric, Ice | | | . | Ice | Fighting, Rock, Steel, Fire | | | . | Normal | Fighting | | | . | Poison | Ground, Psychic | | | . | Psychic | Bug, Ghost, Dark | | | . | Rock | Fighting, Ground, Steel, Water, Grass | | | . | Steel | Fighting, Ground, Fire | | | . | Water | Grass, Electric | | | . ",
     "url": "/pokemon/scarlet-violet/raid-icons/",
     "relUrl": "/pokemon/scarlet-violet/raid-icons/"
   },"4": {
