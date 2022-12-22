@@ -74,3 +74,15 @@ If you've trained EVs you don't want, use these berries to get rid of them. Note
 | Grepa             | Tera Raids/Sparkling Pickups in East Province Area 1 | Decreases Special Defense EVs by 10|
 | Pomeg             | Tera Raids/Sparkling Pickups in East Province Area 2 | Decreases HP EVs by 10             |
 | Tamato            | Tera Raids/Sparkling Pickups in East Province Area 1 | Decreases Speed EVs by 10          |
+
+### IV Ratings
+After beating the game, you can see an assessment of each of your Pokemon's IVs in its summary. Below is a translation of what each of the descriptions mean:
+
+| Description | IV Range |
+|-------------|----------|
+| No Good     | 0        |
+| Decent      | 1-15     |
+| Pretty Good | 16-25    |
+| Very Good   | 26-29    |
+| Fantastic   | 30       |
+| Best        | 31       |
