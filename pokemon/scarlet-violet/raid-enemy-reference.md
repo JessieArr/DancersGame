@@ -11,7 +11,7 @@ Below is a quick reference for 5 and 6-star raid enemies!
 
 | Enemy                  |Attack Type | Lowest Defense |Notes            |
 |------------------------|------------|----------------|-----------------|
-| Amoongus               | Mixed      | Physical       |                 |
+| Amoonguss              | Mixed      | Physical       |                 |
 | Avalugg                | Physical   | Special        |                 |
 | Cetitan                | Physical   | Special        |                 |
 | Clodsire               | Physical   | Physical       |                 |
