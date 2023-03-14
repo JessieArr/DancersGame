@@ -1,5 +1,6 @@
 ---
 title: Optimal Weapon Builds
+parent: Legend of Mana
 permalink: /lom/optimal-weapon-builds/
 ---
 
