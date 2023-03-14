@@ -5,6 +5,7 @@ source: ./
 destination: ./docs
 incremental: false
 highlighter: rouge
+url: "https://dancersgame.com"
 gist:
   noscript: false
 kramdown:
