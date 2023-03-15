@@ -1,7 +1,7 @@
 ---
 title: Mindas Ruins
 parent: Lands
-grandparent: Legend of Mana
+grand_parent: Legend of Mana
 permalink: /lom/lands/mindas-ruins
 ---
 
