@@ -1,10 +1,10 @@
 ---
-title: Optimal Weapon Builds
+title: Optimal Stat Builds
 parent: Legend of Mana
-permalink: /lom/optimal-weapon-builds/
+permalink: /lom/optimal-stat-builds/
 ---
 
-# Optimal Weapon Builds
+# Optimal Stat Builds
 
 Below is a chart of the stats gained per level by each type of weapon:
 

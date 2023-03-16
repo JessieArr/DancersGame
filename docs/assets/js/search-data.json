@@ -59,23 +59,23 @@
     "url": "/lom/lands/mindas-ruins",
     "relUrl": "/lom/lands/mindas-ruins"
   },"10": {
-    "doc": "Optimal Weapon Builds",
-    "title": "Optimal Weapon Builds",
+    "doc": "Optimal Stat Builds",
+    "title": "Optimal Stat Builds",
     "content": "Below is a chart of the stats gained per level by each type of weapon: . | Weapon | Power | Skill | Defense | Magic | HP | Spirit | Charm | Totals Per Level | . | Sword | 1 | 1 | 1 | 0.75 | 0.75 | 0.75 | 0.75 | 6 | . | 2H Sword | 1.25 | 1 | 0.75 | 0.75 | 0.75 | 0.5 | 0.75 | 5.75 | . | Knife | 0.75 | 1.25 | 0.75 | 0.75 | 0.5 | 1 | 1 | 6 | . | Axe | 1 | 0.75 | 1 | 0.75 | 0.75 | 1 | 0.5 | 5.75 | . | 2H Axe | 1.25 | 0.75 | 1.25 | 0.75 | 0.5 | 0.75 | 0.5 | 5.75 | . | Staff | 0.5 | 0.75 | 0.75 | 1.25 | 0.5 | 0.75 | 1.25 | 5.75 | . | Bow | 0.5 | 1.5 | 0.75 | 0.75 | 0.5 | 0.75 | 1 | 5.75 | . | Spear | 0.75 | 1.25 | 1 | 0.75 | 0.5 | 0.75 | 1 | 6 | . | Flail | 0.75 | 1.25 | 0.5 | 0.75 | 0.5 | 0.75 | 1 | 5.5 | . | Hammer | 1.5 | 0.75 | 0.5 | 0.75 | 0.75 | 0.75 | 0.75 | 5.75 | . | Glove | 1.25 | 0.75 | 0.75 | 0.5 | 1 | 0.75 | 0.75 | 5.75 | . With this in mind, here are some example builds and your final stats with each: . ",
-    "url": "/lom/optimal-weapon-builds/",
-    "relUrl": "/lom/optimal-weapon-builds/"
+    "url": "/lom/optimal-stat-builds/",
+    "relUrl": "/lom/optimal-stat-builds/"
   },"11": {
-    "doc": "Optimal Weapon Builds",
+    "doc": "Optimal Stat Builds",
     "title": "Max HP",
     "content": ". | Staff: 20 levels | Glove: 78 levels | . Final stats: . | Power | Skill | Defense | Magic | HP | Spirit | Charm | Lowest Stat | . | 99 | 78.5 | 78.5 | 69 | 93 | 78.5 | 88.5 | 69 | . Notes: this is the most balanced build that still reaches 93 HP - useful for playing as the second player in a multiplayer game since it gives you the highest HP regen while not counting your equipment’s stat bonuses. ",
-    "url": "/lom/optimal-weapon-builds/#max-hp",
-    "relUrl": "/lom/optimal-weapon-builds/#max-hp"
+    "url": "/lom/optimal-stat-builds/#max-hp",
+    "relUrl": "/lom/optimal-stat-builds/#max-hp"
   },"12": {
-    "doc": "Optimal Weapon Builds",
+    "doc": "Optimal Stat Builds",
     "title": "Most Balanced Build",
     "content": ". | Sword: 14 levels | Axe: 14 levels | Staff: 28 levels | Glove: 42 levels | . | Power | Skill | Defense | Magic | HP | Spirit | Charm | Lowest Stat | . | 99 | 82 | 85.5 | 82 | 82 | 82 | 89 | 82 | . Notes: extremely balanced build - probably optimal in terms of lowest stat. Only needs +17 stats on gear to max everything! . ",
-    "url": "/lom/optimal-weapon-builds/#most-balanced-build",
-    "relUrl": "/lom/optimal-weapon-builds/#most-balanced-build"
+    "url": "/lom/optimal-stat-builds/#most-balanced-build",
+    "relUrl": "/lom/optimal-stat-builds/#most-balanced-build"
   },"13": {
     "doc": "Pokemon",
     "title": "Pokemon",
@@ -107,12 +107,18 @@
     "url": "/pokemon/scarlet-violet/storyline-unlocks/",
     "relUrl": "/pokemon/scarlet-violet/storyline-unlocks/"
   },"18": {
+    "doc": "Tempering Reference",
+    "title": "Tempering Reference",
+    "content": "| Material Type | Material | WI | SH | DR | AU | SA | GN | JI | UN | . | METAL | MenosBronze | 8 | 8 | 8 | 8 | 8 | 8 | 8 | 8 | . | METAL | ForsenaIron | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | . | METAL | GranzSteel | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | . | METAL | LorantSilver | 9 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | . | METAL | WendelSilver | 9 | 7 | 8 | 8 | 8 | 8 | 8 | 8 | . | METAL | VizelGold | 7 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | . | METAL | IshePlatinum | 7 | 7 | 8 | 8 | 8 | 8 | 8 | 8 | . | METAL | LorimarIron | 7 | 9 | 9 | 9 | 9 | 9 | 9 | 9 | . | METAL | AltenaAlloy | 10 | 10 | 10 | 10 | 10 | 10 | 10 | 10 | . | METAL | MaiaLead | 32 | 32 | 32 | 32 | 32 | 32 | 32 | 32 | . | METAL | Orihalcon | 8 | 8 | 7 | 10 | 7 | 9 | 6 | 8 | . ",
+    "url": "/lom/tempeting-reference/",
+    "relUrl": "/lom/tempeting-reference/"
+  },"19": {
     "doc": "Useful Links",
     "title": "Useful Links",
     "content": "Scarlet/Violet-Specific Links . | Community-Made Interactive Map | Serebii Interactive Map | . General Pokemon References . | Bulbapedia | Ranked Boost | Serebii | Pokemon Type Helper | Pokemon DB Breeding Guide | . foo . ",
     "url": "/pokemon/scarlet-violet/useful-links/",
     "relUrl": "/pokemon/scarlet-violet/useful-links/"
-  },"19": {
+  },"20": {
     "doc": "Version Exclusive Pokemon",
     "title": "Version Exclusive Pokemon",
     "content": "| Scarlet Pokemon | Where to Find | Violet Pokemon | Where to Find | . | Stunky, Skuntank | ??? | Misdreavus, Mismagius | ??? | . | Drifloon, Drifblim | ??? | Gulpin, Swalot | ??? | . | Larvitar, Pupitar, Tyranitar | ??? | Bagon, Shelgon, Salamence | ??? | . | Deino, Zweilous, Hydreigon | ??? | Dreepy, Drakloak, Dragapult | ??? | . | Skrelp, Dragalge | ??? | Clauncher, Clawitzer | ??? | . | Oranguru | ??? | Passimian | ??? | . | Stonjourner | ??? | Eiscue | ??? | . | Armarouge | ??? | Ceruledge | ??? | . | Koraidon | ??? | Miraidon | ??? | . | Great Tusk | ??? | Iron Treads | ??? | . | Scream Tail | ??? | Iron Bundle | ??? | . | Brute Bonnet | ??? | Iron Hands | ??? | . | Flutter Mane | ??? | Iron Jugulis | ??? | . | Slither Wing | ??? | Iron Moth | ??? | . | Sandy Shocks | ??? | Iron Thorns | ??? | . | Roaring Moon | ??? | Iron Valiant | ??? | . ",
