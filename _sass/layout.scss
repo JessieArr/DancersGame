@@ -17,22 +17,30 @@
   }
 
   @include mq(lg) {
-    width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+    width: $nav-width;
     min-width: $nav-width;
   }
+  // This floats the nav out from the left margin
+  // @include mq(lg) {
+  //   width: calc((100% - #{$nav-width + $content-width}) / 2 + #{$nav-width});
+  //   min-width: $nav-width;
+  // }
 }
 
 .main {
   @include mq(md) {
     position: relative;
-    max-width: $content-width;
+    max-width: $content-width-md;
     margin-left: $nav-width-md;
   }
 
   @include mq(lg) {
-    margin-left: calc(
-      (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
-    );
+    margin-left: $nav-width;
+    max-width: $content-width;
+    // This floats the main body out from the left margin
+    // margin-left: calc(
+    //   (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
+    // );
   }
 }
 
