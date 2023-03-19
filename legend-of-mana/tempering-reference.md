@@ -1,7 +1,7 @@
 ---
 title: Tempering Reference
 parent: Legend of Mana
-permalink: /lom/tempeting-reference/
+permalink: /lom/tempering-reference/
 ---
 
 # Tempering Reference
