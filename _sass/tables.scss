@@ -13,7 +13,8 @@
 
 table {
   display: table;
-  min-width: 100%;
+  // Let tables be whatever size they need to be
+  //min-width: 100%;
   border-collapse: separate;
 }
 
