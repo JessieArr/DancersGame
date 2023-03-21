@@ -13,6 +13,7 @@ permalink: /lom/tempering-reference/
 This determines how much a material's values impact the weapon or armor's offense/defense stats.
 
 ### Weapons
+
 | Weapon | Sharp | Heavy | Force | Tech |
 |-|-|-|-|-|
 | Knife | 44 | 16 | 12 | 48 |              
@@ -28,6 +29,7 @@ This determines how much a material's values impact the weapon or armor's offens
 | Bow | 40 | 4 | 20 | 40  |
 
 ### Armor
+
 | Armor | Strike | Slash | Pierce | Magic |
 |-|-|-|-|-|
 | Shield | 8 | 8 | 8 | 4 |
