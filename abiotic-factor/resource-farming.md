@@ -8,4 +8,11 @@ permalink: /abiotic-factor/resource-farming
 
 | Resource | Portal World | Trading | Enemy |
 |-|-|-|-|
-| Rebar | The Train | Trade Anomaly to Blacksmith | Defense Robot (Hydroplant) |
+| Anteverse Gem | | Exchanger in Adjustment (Anteverse Wheat) | |
+| Anvil | | The Blacksmith (Security Bot CPU) | |
+| Optic Lens | | The Blacksmith (Reinforced Hose) | |
+| Power Cell | Flathill | | |
+| Rebar | The Train | The Blacksmith (Anomaly) | Defense Robot (Hydroplant) |
+| Refined Carbon | | Exchanger in Cascade Labs lvl 3 (Silver Scrap) | |
+| Silver Scrap | The Train | | |
+| Silver Scrap | The Train | The Blacksmith (Military Electronics) | |
