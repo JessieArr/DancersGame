@@ -21,6 +21,7 @@ Below are a list of *respawning* locations that you can find various raw resourc
 | Carapace | Mycofields | | |
 | Cement Bag | | The Blacksmith (Metal Scrap) | |
 | Chain | The Train | | |
+| Fibre Optic Cable | | The Blacksmith (Solder) | |
 | Fire Extinguisher | The Train | | |
 | Grinder Disc | The Train | | |
 | Egg | Rise | | |
