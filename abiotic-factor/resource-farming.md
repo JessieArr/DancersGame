@@ -47,7 +47,7 @@ Below are a list of *respawning* locations that you can find various raw resourc
 | Salt | Flathill, Furniture Store | | |
 | Security Bot CPU | | | Security Robot (Grey, Office) |
 | Sensor | The Night Realm, Voussoir | | Rook (Voussoir) |
-| Silver Scrap | The Train | | |
+| Silver Scrap | The Train, Canaan | | |
 | Stapler | Flathill | Warren Bunning (Antefish Filet) | |
 | Steel Cable | The Train | The Blacksmith (Military Electronics) | |
 | Tech Scrap | | | All Robots |
