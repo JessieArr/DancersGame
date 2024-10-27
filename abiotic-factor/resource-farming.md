@@ -1,7 +1,8 @@
 ---
 title: Resource Farming in Abiotic Factor
-nav_order: 2
+nav_order: 1
 has_children: false
+parent: Abiotic Factor
 permalink: /abiotic-factor/resource-farming
 ---
 # Resource Farming in Abiotic Factor
