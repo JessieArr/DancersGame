@@ -7,6 +7,8 @@ permalink: /skyrim/black-books
 ---
 # Black Books
 
+Black Books are added by the Dragonborn DLC. When you read one, you are transported to Apocrypha to complete a dungeon. Upon doing so, you are rewarded with a choice from 3 powers (only 1 for Waking Dreams which concludes the Dragonborn questline.)
+
 | Book | Power 1 | Power 2 | Power 3 |
 |-|-|-|-|
 | [Epistolary Acumen](https://en.uesp.net/wiki/Skyrim:The_Gardener_of_Men) | [Dragonborn Flame](https://en.uesp.net/wiki/Skyrim:Dragonborn_Flame) (Fire Breath creates fire wyrms on kills) | [Dragonborn Force](https://en.uesp.net/wiki/Skyrim:Dragonborn_Force) (Unrelenting Force deals more damage) | [Dragonborn Frost](https://en.uesp.net/wiki/Skyrim:Dragonborn_Frost) (Frost Breath freezes enemies for 15 seconds) |
