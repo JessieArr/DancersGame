@@ -1,6 +1,6 @@
 ---
 title: Winter Tips
-nav_order: 1
+nav_order: 4
 has_children: false
 parent: Stardew Valley
 permalink: /stardew-valley/winter-tips
