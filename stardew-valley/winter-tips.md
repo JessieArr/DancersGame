@@ -22,6 +22,7 @@ permalink: /stardew-valley/winter-tips
 - 26th Clint Birthday
 
 ### Bundle Reminders:
+
 | Bundle | Needed |
 |-|-|
 | Winter Foraging Bundle | Winter Root, Crystal Fruit, Snow Yam, Crocus |

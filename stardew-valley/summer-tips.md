@@ -25,6 +25,7 @@ permalink: /stardew-valley/summer-tips
     - gold+ quality: Large Milk, Beer, Mayonnaise, Pale Ale, Truffle, Yam
 
 ### Bundle Reminders:
+
 | Bundle | Needed |
 |-|-|
 | Summer Foraging Bundle | Grape, Spice Berry, Sweet Pea |

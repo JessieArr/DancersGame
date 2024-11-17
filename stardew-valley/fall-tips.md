@@ -20,6 +20,7 @@ permalink: /stardew-valley/fall-tips
 - 27th Spirit's Eve
 
 ### Bundle Reminders:
+
 | Bundle | Needed |
 |-|-|
 | Fall Foraging Bundle | Common Mushroom, Wild Plum, Hazelnut, Blackberry |

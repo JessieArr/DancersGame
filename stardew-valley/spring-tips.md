@@ -18,6 +18,7 @@ permalink: /stardew-valley/spring-tips
 - 27th Emily Birthday
 
 ### Bundle Reminders:
+
 | Bundle | Needed |
 |-|-|
 | Spring Foraging Bundle | Wild Horseradish, Daffodil, Leek, Dandelion |
