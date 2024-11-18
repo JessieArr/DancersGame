@@ -9,14 +9,17 @@ permalink: /stardew-valley/spring-tips
 {:toc}
 
 ### Notable Dates:
-- 4th Kent Birthday
-- 7th Lewis Birthday
-- 10th Vincent Birthday
-- 14th Haley Birthday
-- 18th Pam Birthday
-- 20th Shane Birthday
-- 26th Pierre Birthday
-- 27th Emily Birthday
+- 🎉 4th Kent Birthday
+- 🎉 7th Lewis Birthday
+- 🎉 10th Vincent Birthday
+- 🥚 13th Egg Festival
+- 🎉 14th Haley Birthday
+- 🏜️ 15th-17th Desert Festival
+- 🎉 18th Pam Birthday
+- 🎉 20th Shane Birthday
+- 🌼 24th Flower Dance
+- 🎉 26th Pierre Birthday
+- 🎉 27th Emily Birthday
 
 ### Crops:
 - Coffee grows for two seasons

@@ -9,18 +9,18 @@ permalink: /stardew-valley/winter-tips
 {:toc}
 
 ### Notable Dates:
-- 1st Krobus Birthday
-- 3rd Linus Birthday
-- 7th Caroline Birthday
-- 8th Festival of Ice
-- 10th Sebastian Birthday
-- 14th Harvey Birthday
-- 15th-17th Night Market
-- 17th Wizard Birthday
-- 20th Evelyn Birthday
-- 23rd Leah Birthday
-- 25th Feast of the Winter Star
-- 26th Clint Birthday
+- 🎉 1st Krobus Birthday
+- 🎉 3rd Linus Birthday
+- 🎉 7th Caroline Birthday
+- ❄️ 8th Festival of Ice
+- 🎉 10th Sebastian Birthday
+- 🎉 14th Harvey Birthday
+- 🏮 15th-17th Night Market
+- 🎉 17th Wizard Birthday
+- 🎉 20th Evelyn Birthday
+- 🎉 23rd Leah Birthday
+- 🎄 25th Feast of the Winter Star
+- 🎉 26th Clint Birthday
 
 ### Bundle Reminders:
 

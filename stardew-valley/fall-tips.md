@@ -9,16 +9,16 @@ permalink: /stardew-valley/fall-tips
 {:toc}
 
 ### Notable Dates:
-- 2nd Penny Birthday (Loves: Diamond, Emerald, Melon, Poppy, Roots Platter, Sandfish, Tom Kha Soup)
-- 5th Elliott Birthday (Loves: Crab Cakes, Duck Feather, Lobster, Pomegranate, Squid Ink, Tom Kha Soup)
-- 11th Jodi Birthday (Loves: Chocolate Cake, Crispy Bass, Diamond, Eggplant Parmesan, Fried Eel, Pancakes, Rhubarb Pie, Vegetable Medley)
-- 13th Abigail Birthday (Loves: Amethyst, Banana Pudding, Blackberry Cobbler, Chocolate Cake, Pufferfish, Pumpkin, Spicy Eel)
-- 15th Sandy Birthday (Loves: Crocus, Daffodil, Mango Sticky Rice, Sweet Pea)
-- 16th Stardew Valley Fair
-- 18th Marnie Birthday (Loves: Diamond, Farmer's Lunch, Pink Cake, Pumpkin Pie)
-- 21st Robin Birthday (Loves: Goat Cheese, Peach, Spaghetti)
-- 24th George Birthday (Loves: Fried Mushroom, Leek (Likes Daffodil))
-- 27th Spirit's Eve
+- 🎉 2nd Penny Birthday (Loves: Diamond, Emerald, Melon, Poppy, Roots Platter, Sandfish, Tom Kha Soup)
+- 🎉 5th Elliott Birthday (Loves: Crab Cakes, Duck Feather, Lobster, Pomegranate, Squid Ink, Tom Kha Soup)
+- 🎉 11th Jodi Birthday (Loves: Chocolate Cake, Crispy Bass, Diamond, Eggplant Parmesan, Fried Eel, Pancakes, Rhubarb Pie, Vegetable Medley)
+- 🎉 13th Abigail Birthday (Loves: Amethyst, Banana Pudding, Blackberry Cobbler, Chocolate Cake, Pufferfish, Pumpkin, Spicy Eel)
+- 🎉 15th Sandy Birthday (Loves: Crocus, Daffodil, Mango Sticky Rice, Sweet Pea)
+- 🎪 16th Stardew Valley Fair
+- 🎉 18th Marnie Birthday (Loves: Diamond, Farmer's Lunch, Pink Cake, Pumpkin Pie)
+- 🎉 21st Robin Birthday (Loves: Goat Cheese, Peach, Spaghetti)
+- 🎉 24th George Birthday (Loves: Fried Mushroom, Leek (Likes Daffodil))
+- 🎃 27th Spirit's Eve
 
 ### Crops:
 - Fairy Rose gives the best honey in Fall
