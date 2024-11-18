@@ -5,8 +5,6 @@ has_children: false
 parent: Stardew Valley
 permalink: /stardew-valley/fall-tips
 ---
-# Fall Tips
-
 1. TOC
 {:toc}
 
