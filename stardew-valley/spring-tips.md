@@ -17,6 +17,10 @@ permalink: /stardew-valley/spring-tips
 - 26th Pierre Birthday
 - 27th Emily Birthday
 
+### Crops:
+- Coffee grows for two seasons
+- Blue Jazz gives the best honey in Spring
+
 ### Bundle Reminders:
 
 | Bundle | Needed |
@@ -28,7 +32,3 @@ permalink: /stardew-valley/spring-tips
 | River Fish Bundle | Catfish (river, rain, 6am-midnight) |
 | Ocean Fish Bundle | Sardine (ocean, any weather, 6am-7pm) |
 | Night Fishing Bundle | Eel (ocean, any weather, 4pm-2am) |
-
-### Crops:
-- Coffee grows for two seasons
-- Blue Jazz gives the best honey in Spring

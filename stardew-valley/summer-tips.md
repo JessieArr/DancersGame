@@ -19,6 +19,10 @@ permalink: /stardew-valley/summer-tips
 - 24th Willy Birthday (Loves: Gold Bar, Diamond, Iridium Bar, Catfish, Pumpkin, Mead, Sea Cucumber, Sturgeon)
 - Green Rain will occur once on one of (5, 6, 7, 14, 15, 16, 18, 23)
 
+### Crops:
+- Corn grows for two seasons
+- Poppy gives the best honey in Summer
+
 ### Luau Tips:
 - Best outcome from:
     - silver+ quality: Ancient Fruit Wine, Lave Eel, Pale Ale, Peach/Pomegranate/Pineapple Wine, Smoked Catfish, Starfruit
@@ -39,7 +43,3 @@ permalink: /stardew-valley/summer-tips
 | Dye Bundle | Red Cabbage |
 | Fodder Bundle | 3x Apple |
 | Enchanter's Bundle | Pomegranate |
-
-### Crops:
-- Corn grows for two seasons
-- Poppy gives the best honey in Summer
