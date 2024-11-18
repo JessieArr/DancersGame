@@ -7,6 +7,9 @@ permalink: /stardew-valley/spring-tips
 ---
 # Spring Tips
 
+1. TOC
+{:toc}
+
 ### Notable Dates:
 - 4th Kent Birthday
 - 7th Lewis Birthday

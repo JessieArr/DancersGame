@@ -7,6 +7,9 @@ permalink: /stardew-valley/summer-tips
 ---
 # Summer Tips
 
+1. TOC
+{:toc}
+
 ### Notable Dates:
 - 4th Jas Birthday (Loves: Fairy Rose, Pink Cake, Plum Pudding, Artifact Dolls)
 - 8th Gus Birthday (Loves: Diamond, Escargot, Fish Taco, Orange, Tropical Curry)

@@ -7,6 +7,9 @@ permalink: /stardew-valley/winter-tips
 ---
 # Winter Tips
 
+1. TOC
+{:toc}
+
 ### Notable Dates:
 - 1st Krobus Birthday
 - 3rd Linus Birthday

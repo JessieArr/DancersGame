@@ -7,6 +7,9 @@ permalink: /stardew-valley/fall-tips
 ---
 # Fall Tips
 
+1. TOC
+{:toc}
+
 ### Notable Dates:
 - 2nd Penny Birthday (Loves: Diamond, Emerald, Melon, Poppy, Roots Platter, Sandfish, Tom Kha Soup)
 - 5th Elliott Birthday (Loves: Crab Cakes, Duck Feather, Lobster, Pomegranate, Squid Ink, Tom Kha Soup)
