@@ -4,6 +4,7 @@ nav_order: 1
 has_children: false
 parent: Stardew Valley
 permalink: /stardew-valley/spring-tips
+link_stardew_valley_names: true
 ---
 1. TOC
 {:toc}
