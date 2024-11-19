@@ -8,7 +8,7 @@ permalink: /stardew-valley/spring-tips
 1. TOC
 {:toc}
 
-### Notable Dates:
+### Notable Dates
 - 🎉 4th Kent Birthday
 - 🎉 7th Lewis Birthday
 - 🎉 10th Vincent Birthday
@@ -21,11 +21,11 @@ permalink: /stardew-valley/spring-tips
 - 🎉 26th Pierre Birthday
 - 🎉 27th Emily Birthday
 
-### Crops:
+### Crop Planning
 - Coffee grows for two seasons
 - Blue Jazz gives the best honey in Spring
 
-### Bundle Reminders:
+### Bundle Reminders
 
 | Bundle | Needed |
 |-|-|

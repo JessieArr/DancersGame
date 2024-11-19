@@ -8,7 +8,7 @@ permalink: /stardew-valley/summer-tips
 1. TOC
 {:toc}
 
-### Notable Dates:
+### Notable Dates
 - 🎉 4th Jas Birthday (Loves: Fairy Rose, Pink Cake, Plum Pudding, Artifact Dolls)
 - 🎉 8th Gus Birthday (Loves: Diamond, Escargot, Fish Taco, Orange, Tropical Curry)
 - 🎉 10th Maru Birthday (Loves: Battery Pack, Cauliflower, Diamond, Gold Bar, Iridium Bar, Miner's Treat, Pepper Poppers, Rhubarb Pie, Strawberry)
@@ -21,16 +21,16 @@ permalink: /stardew-valley/summer-tips
 - 🌊 28th Dance of the Moonlight Jellies
 - 🌧️ Green Rain will occur once on one of (5, 6, 7, 14, 15, 16, 18, 23)
 
-### Crops:
+### Crop Planning
 - Corn grows for two seasons
 - Poppy gives the best honey in Summer
 
-### Luau Tips:
+### Luau Tips
 - Best outcome from:
-    - silver+ quality: Ancient Fruit Wine, Lave Eel, Pale Ale, Peach/Pomegranate/Pineapple Wine, Smoked Catfish, Starfruit
+    - silver+ quality: Ancient Fruit Wine, Lava Eel, Pale Ale, Peach/Pomegranate/Pineapple Wine, Smoked Catfish, Starfruit
     - gold+ quality: Large Milk, Beer, Mayonnaise, Pale Ale, Truffle, Yam
 
-### Bundle Reminders:
+### Bundle Reminders
 
 | Bundle | Needed |
 |-|-|

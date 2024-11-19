@@ -8,7 +8,7 @@ permalink: /stardew-valley/winter-tips
 1. TOC
 {:toc}
 
-### Notable Dates:
+### Notable Dates
 - 🎉 1st Krobus Birthday
 - 🎉 3rd Linus Birthday
 - 🎉 7th Caroline Birthday
@@ -22,7 +22,7 @@ permalink: /stardew-valley/winter-tips
 - 🎄 25th Feast of the Winter Star
 - 🎉 26th Clint Birthday
 
-### Bundle Reminders:
+### Bundle Reminders
 
 | Bundle | Needed |
 |-|-|

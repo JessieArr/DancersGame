@@ -8,7 +8,7 @@ permalink: /stardew-valley/fall-tips
 1. TOC
 {:toc}
 
-### Notable Dates:
+### Notable Dates
 - 🎉 2nd Penny Birthday (Loves: Diamond, Emerald, Melon, Poppy, Roots Platter, Sandfish, Tom Kha Soup)
 - 🎉 5th Elliott Birthday (Loves: Crab Cakes, Duck Feather, Lobster, Pomegranate, Squid Ink, Tom Kha Soup)
 - 🎉 11th Jodi Birthday (Loves: Chocolate Cake, Crispy Bass, Diamond, Eggplant Parmesan, Fried Eel, Pancakes, Rhubarb Pie, Vegetable Medley)
@@ -20,17 +20,14 @@ permalink: /stardew-valley/fall-tips
 - 🎉 24th George Birthday (Loves: Fried Mushroom, Leek (Likes Daffodil))
 - 🎃 27th Spirit's Eve
 
-### Crops:
+### Crop Planning
 - Fairy Rose gives the best honey in Fall
+- Rare Seeds take 24 days to grow and give you a Stardrop if you trade to the statue in the Secret Woods. Plant them by the 4th or use Speed Gro!
 
-### Grange Display Tips:
+### Grange Display Tips
 - [Wiki page](https://stardewvalleywiki.com/Stardew_Valley_Fair#Grange_Display)
 - You can take all your items back after judging is done. (Check Mayor's lost and found if you forget.)
-- Need 90 points total.
-- You get 14 points automatically
-- By submitting 9 items you get 9 points for free.
-- 5 points for each category (max of 30)
-- With 9 items across 6+ categories, you need 37 more points from item value to win 1st place, or an average of 4.1 per item
+- Easiest way to get first place is to display 9 items from 6 or more of the following categories, with an average of 4.11 points or higher.
 - Animal:
     - Any animal product with gold or higher quality guarantees 5 points.
 - Artisan:
@@ -38,7 +35,7 @@ permalink: /stardew-valley/fall-tips
     - Most wines give 5+ points unless from forageable berries.
     - Poppy and Fairy Rose honey give 5+ points.
 - Cooking:
-    - Virtually any cooked good is 5+ points if it's gold quality.
+    - Virtually any cooked food is 5+ points if it's gold quality.
     - Pizza is 5 points and is sold at the Saloon.
 - Fish:
     - Any iridium quality fish is 6+ points. Silver star Catfish is 5 points and caught in the river during rain in fall.
@@ -55,7 +52,7 @@ permalink: /stardew-valley/fall-tips
     - Everything is 6+ at Iridium quality.
 
 
-### Bundle Reminders:
+### Bundle Reminders
 
 | Bundle | Needed |
 |-|-|
