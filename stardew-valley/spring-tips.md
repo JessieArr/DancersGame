@@ -22,7 +22,9 @@ permalink: /stardew-valley/spring-tips
 - 🎉 27th Emily Birthday
 
 ### Crop Planning
-- Coffee grows for two seasons
+- Coffee grows for two seasons and you can plant the beans
+- Strawberries are awesome if you have them on day 1, good otherwise
+- Green Bean, Cauliflower, and Rhubarb are the best money otherwise
 - Blue Jazz gives the best honey in Spring
 
 ### Bundle Reminders

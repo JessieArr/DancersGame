@@ -23,7 +23,10 @@ permalink: /stardew-valley/summer-tips
 
 ### Crop Planning
 - Corn grows for two seasons
+- Hops is great money if you make it into Pale Ale in a Keg
+- Starfruit, Blueberry, and Melons are the best money
 - Poppy gives the best honey in Summer
+- Buy Rare Seeds at the traveling cart during Summer if you want to plant them in Fall
 
 ### Luau Tips
 - Best outcome from:
@@ -36,6 +39,7 @@ permalink: /stardew-valley/summer-tips
 |-|-|
 | Summer Foraging Bundle | Grape, Spice Berry, Sweet Pea |
 | Summer Crops Bundle | Tomato, Hot Pepper, Blueberry, Melon |
+| Quality Crops Bundle | 5x gold quality Melon |
 | River Fish Bundle | Sunfish (river, 6am-7pm, sunny) |
 | Lake Fish Bundle | Sturgeon (lake, 6am-7pm, any time) |
 | Ocean Fish Bundle | Tuna (ocean, 6am-7pm, any weather) |
