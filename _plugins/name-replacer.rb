@@ -12,7 +12,7 @@ Jekyll::Hooks.register([:pages, :posts], :pre_render) do |post|
     if post.data['link_stardew_valley_names']
         puts "Replacing Stardew Valley Names..." + post.data['title']
         post.site.data['stardew_valley_names'].each {
-            |x| post.content = post.content.gsub(/\b#{x['Name']}\b/, "[#{x['Name']}](https://stardewvalleywiki.com/#{x['Name']}){:target=\"_blank\"}")
+            |x| post.content = x['Regex'] ? post.content.gsub(/\b#{x['Regex']}\b/, "[#{x['Name']}](https://stardewvalleywiki.com/#{x['Name']}){:target=\"_blank\"}") : post.content.gsub(/\b#{x['Name']}\b/, "[#{x['Name']}](https://stardewvalleywiki.com/#{x['Name']}){:target=\"_blank\"}")
         }
     end
 end

@@ -1,4 +1,4 @@
-Name
+Name,Regex
 Abigail
 Alex
 Caroline
@@ -43,24 +43,31 @@ Hops
 Hot Pepper
 Melon
 Parsnip
+Peach
+Pineapple
 Pomegranate
 Potato
 Pumpkin
 Red Cabbage
 Rhubarb
 Starfruit
+Strawberry
 Tomato
-Yam
+Yam,(?<!Snow\s)Yam
+Beer
 Honey
-Pale Ale
 Keg
+Mayonnaise
+Pale Ale
+Truffle
+Blue Jazz
 Fairy Rose
 Poppy
 Sunflower
 Rare Seed
-Chef’s Bundle
+Chef's Bundle
 Dye Bundle
-Enchanter’s Bundle
+Enchanter's Bundle
 Exotic Foraging Bundle
 Fall Crops Bundle
 Fall Foraging Bundle
@@ -78,7 +85,8 @@ Summer Crops Bundle
 Summer Foraging Bundle
 Winter Foraging Bundle
 Catfish
-Eel
+Eel,(?<!Lava\s)Eel
+Lava Eel
 Pufferfish
 Red Snapper
 Sardine
@@ -116,5 +124,5 @@ Flower Dance
 Green Rain
 Luau
 Night Market
-Spirit’s Eve
+Spirit's Eve
 Stardew Valley Fair
