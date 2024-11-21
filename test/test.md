@@ -2,6 +2,7 @@
 title: Test
 has_children: true
 permalink: /test/
+nav_exclude: true
 ---
 # This is a test page.
 
