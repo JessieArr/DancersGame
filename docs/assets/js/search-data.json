@@ -187,7 +187,7 @@
   },"31": {
     "doc": "Test",
     "title": "This is a test page.",
-    "content": "Local video: . Sample video, hosted on Google Drive: . Large video: . Larger still: . And the largest! . ",
+    "content": "Local video: . ",
     "url": "/test/#this-is-a-test-page",
     "relUrl": "/test/#this-is-a-test-page"
   },"32": {
