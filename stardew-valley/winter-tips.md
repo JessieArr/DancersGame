@@ -28,7 +28,7 @@ link_stardew_valley_names: true
 | Bundle | Needed |
 |-|-|
 | Winter Foraging Bundle | Winter Root, Crystal Fruit, Snow Yam, Crocus |
-| River Fish Bundle | Tiger Trou (river, 6am-7pm, any weather) |
+| River Fish Bundle | Tiger Trout (river, 6am-7pm, any weather) |
 | Lake Fish Bundle | Sturgeon (lake, 6am-7pm, any weather) |
 | Ocean Fish Bundle | Tuna (ocean, 6am-7pm, any weather) |
 | Field Research Bundle | Nautilus Shell |

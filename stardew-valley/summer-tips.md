@@ -25,9 +25,9 @@ link_stardew_valley_names: true
 ### Crop Planning
 - Corn grows for two seasons
 - Hops is great money if you make it into Pale Ale in a Keg
-- Starfruit, Blueberry, and Melons are the best money
+- Starfruit, Blueberry, and Melon are the best money
 - Poppy gives the best honey in Summer
-- Buy Rare Seeds at the traveling cart during Summer if you want to plant them in Fall
+- Buy Rare Seed at the traveling cart during Summer if you want to plant them in Fall
 
 ### Luau Tips
 - Best outcome from:

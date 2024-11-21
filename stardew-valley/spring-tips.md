@@ -24,7 +24,7 @@ link_stardew_valley_names: true
 
 ### Crop Planning
 - Coffee grows for two seasons and you can plant the beans
-- Strawberries are awesome if you have them on day 1, good otherwise
+- Strawberry is awesome if you have them on day 1, good otherwise
 - Green Bean, Cauliflower, and Rhubarb are the best money otherwise
 - Blue Jazz gives the best honey in Spring
 

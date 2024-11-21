@@ -22,9 +22,9 @@ link_stardew_valley_names: true
 - 🎃 27th Spirit's Eve
 
 ### Crop Planning
-- Cranberries, Grapes, Pumkins, and Sweet Gem Berries are the best money
+- Cranberry, Grape, Pumkin, and Sweet Gem Berriy are the best money
 - Fairy Rose gives the best honey in Fall
-- Rare Seeds take 24 days to grow. Plant them by the 4th or use Speed Gro!
+- Rare Seed take 24 days to grow. Plant them by the 4th or use Speed Gro!
     - Trade one to the statue in Secret Woods for a Stardrop!
 - May want to invest in animals before Winter starts
     - It's possible to finish Greenhouse in year 1 during Fall if you complete all the Pantry bundles
