@@ -15,6 +15,7 @@ link_stardew_valley_names: true
 - 🎉 7th Caroline Birthday
 - ❄️ 8th Festival of Ice
 - 🎉 10th Sebastian Birthday
+- 🦑 12th-13th SquidFest
 - 🎉 14th Harvey Birthday
 - 🏮 15th-17th Night Market
 - 🎉 17th Wizard Birthday
