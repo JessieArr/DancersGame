@@ -668,7 +668,7 @@ h6, .text-zeta { font-size: 11px !important; }
 
 .text-right { text-align: right !important; }
 
-.label, .label-blue { display: inline-block; padding-top: 0.16em; padding-right: 0.56em; padding-bottom: 0.16em; padding-left: 0.56em; margin-right: 0.5rem; margin-left: 0.5rem; color: #fff; text-transform: uppercase; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; border-radius: 12px; }
+.label, .label-blue { display: inline-block; padding-top: 0.16em; padding-right: 0.56em; padding-bottom: 0.16em; padding-left: 0.56em; margin-right: 0.5rem; margin-left: 0.5rem; color: #fff; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; border-radius: 12px; }
 
 @media (min-width: 31.25rem) { .label, .label-blue { font-size: 12px !important; } }
 
