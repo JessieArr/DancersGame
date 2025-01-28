@@ -24,7 +24,7 @@ flowchart LR
         Tunudan([Tunudan]) --- Harva([Harva])
         Kuharah([Kuharah]) --- Tunudan
     end
-    subgraph statics [K-space Statics]
+    subgraph statics [Tunudan's K-space Statics]
         Oisio([Oisio])
         Oshaima([Oshaima])
         Yria([Yria])
@@ -39,6 +39,8 @@ flowchart LR
         Sivala([Sivala])
         Halaima("Halaima
         (7j to Jita)")
+        Hysera("Hysera
+        (Caldari FW)")
         Oisio --- Oshaima
         Oisio & Oshaima --- Yria
         Yria --- Kulelen
@@ -47,6 +49,7 @@ flowchart LR
         Uedama & Sivala & Enderailen --- Kubinen
         Uedama --- Sivala
         Huttaken --- Halaima
+        Oisio & Oshaima --- Hysera
     end
-    pochven --- statics
+    pochven ---|Static WH| statics
 ```
