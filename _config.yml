@@ -2,6 +2,7 @@ title: Dancer's Game
 lsi: false
 safe: false
 mermaid: true
+mermaid.version: 11.4.0
 source: ./
 destination: ./docs
 incremental: false
