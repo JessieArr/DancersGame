@@ -46,6 +46,20 @@ graph TD
         Uedama <--> Sivala
         Huttaken <--> Halaima
         Oisio & Oshaima <-.-> Hysera
+        click Oisio "https://evemaps.dotlan.net/map/The_Citadel/Oisio" _blank
+        click Oshaima "https://evemaps.dotlan.net/map/The_Citadel/Oshaima" _blank
+        click Yria "https://evemaps.dotlan.net/map/The_Citadel/Yria" _blank
+        click Kulelen "https://evemaps.dotlan.net/map/The_Citadel/Kulelen" _blank
+        click Venilen "https://evemaps.dotlan.net/map/The_Citadel/Venilen" _blank
+        click Hogimo "https://evemaps.dotlan.net/map/The_Citadel/Hogimo" _blank
+        click Huttaken "https://evemaps.dotlan.net/map/The_Citadel/Huttaken" _blank
+        click Rairomon "https://evemaps.dotlan.net/map/The_Citadel/Rairomon" _blank
+        click Enderailen "https://evemaps.dotlan.net/map/The_Citadel/Enderailen" _blank
+        click Kubinen "https://evemaps.dotlan.net/map/The_Citadel/Kubinen" _blank
+        click Uedama "https://evemaps.dotlan.net/map/The_Citadel/Uedama" _blank
+        click Sivala "https://evemaps.dotlan.net/map/The_Citadel/Sivala" _blank
+        click Hysera "https://evemaps.dotlan.net/map/The_Citadel/Hysera" _blank
+        click Halaima "https://evemaps.dotlan.net/map/The_Citadel/Halaima" _blank
     end
     subgraph pochven [Pochven]
         Tunudan([Tunudan]) <--> Harva([Harva])
@@ -53,6 +67,9 @@ graph TD
         Tunudan:::nullsec
         Harva:::nullsec
         Kuharah:::nullsec
+        click Tunudan "https://evemaps.dotlan.net/map/Pochven/Tunudan" _blank
+        click Harva "https://evemaps.dotlan.net/map/Pochven/Harva" _blank
+        click Kuharah "https://evemaps.dotlan.net/map/Pochven/Kuharah" _blank
     end
     classDef nullsec fill:#600,stroke:#000,color:#fff
     classDef lowsec fill:#660,stroke:#000,color:#fff
