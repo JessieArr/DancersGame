@@ -109,7 +109,7 @@
   },"18": {
     "doc": "Pochven",
     "title": "Pochven",
-    "content": ". | Pochven | Ichoriya | Tunudan | . Pochven . Below is a map of Pochven. Below is a list of Trig space systems with maps of their static entry systems. Ichoriya . Tunudan . graph LR A[Square Rect] -- Link text --&gt; B((Circle)) A --&gt; C(Round Rect) B --&gt; D{Rhombus} C --&gt; D . ",
+    "content": ". | Pochven | Ichoriya | Tunudan | . Pochven . Below is a map of Pochven. Below is a list of Trig space systems with maps of their static entry systems. Ichoriya . Tunudan . flowchart LR subgraph pochven [Pochven] Tunudan([Tunudan]) --- Harva([Harva]) Kuharah([Kuharah]) --- Tunudan end subgraph statics [K-space Statics] Oisio([Oisio]) Oshaima([Oshaima]) Yria([Yria]) Kulelen([Kulelen]) Venilen([Venilen]) Hogimo([Hogimo]) Huttaken([Huttaken]) Rairomon([Rairomon]) Enderailen([Enderailen]) Kubinen([Kubinen]) Uedama([Uedama]) Sivala([Sivala]) Halaima(\"Halaima (7j to Jita)\") Oisio --- Oshaima Oisio &amp; Oshaima --- Yria Yria --- Kulelen Kulelen &amp; Venilen &amp; Huttaken --- Hogimo Huttaken &amp; Enderailen --- Rairomon Uedama &amp; Sivala &amp; Enderailen --- Kubinen Uedama --- Sivala Huttaken --- Halaima end pochven --- statics . ",
     "url": "/eve/pochven",
     "relUrl": "/eve/pochven"
   },"19": {

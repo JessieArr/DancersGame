@@ -19,11 +19,34 @@ Below is a list of Trig space systems with maps of their static entry systems.
 ![Tunudan](/images/eve/tunudan-statics.jpg)
 
 ```mermaid
-
-graph LR
-    A[Square Rect] -- Link text --> B((Circle))
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
-
+flowchart LR
+    subgraph pochven [Pochven]
+        Tunudan([Tunudan]) --- Harva([Harva])
+        Kuharah([Kuharah]) --- Tunudan
+    end
+    subgraph statics [K-space Statics]
+        Oisio([Oisio])
+        Oshaima([Oshaima])
+        Yria([Yria])
+        Kulelen([Kulelen])
+        Venilen([Venilen])
+        Hogimo([Hogimo])
+        Huttaken([Huttaken])
+        Rairomon([Rairomon])
+        Enderailen([Enderailen])
+        Kubinen([Kubinen])
+        Uedama([Uedama])
+        Sivala([Sivala])
+        Halaima("Halaima
+        (7j to Jita)")
+        Oisio --- Oshaima
+        Oisio & Oshaima --- Yria
+        Yria --- Kulelen
+        Kulelen & Venilen & Huttaken --- Hogimo
+        Huttaken & Enderailen --- Rairomon
+        Uedama & Sivala & Enderailen --- Kubinen
+        Uedama --- Sivala
+        Huttaken --- Halaima
+    end
+    pochven --- statics
 ```
