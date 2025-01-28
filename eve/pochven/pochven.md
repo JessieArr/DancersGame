@@ -20,13 +20,6 @@ Below is a list of Trig space systems with maps of their static entry systems.
 
 ```mermaid
 graph TD
-    subgraph pochven [Pochven]
-        Tunudan([Tunudan]) <--> Harva([Harva])
-        Kuharah([Kuharah]) <--> Tunudan
-        Tunudan:::nullsec
-        Harva:::nullsec
-        Kuharah:::nullsec
-    end
     subgraph statics [Tunudan's K-space Statics]
         Oisio([Oisio]):::highsec
         Oshaima([Oshaima]):::highsec
@@ -52,9 +45,15 @@ graph TD
         Uedama & Sivala & Enderailen <--> Kubinen
         Uedama <--> Sivala
         Huttaken <--> Halaima
-        Oisio & Oshaima <--> Hysera
+        Oisio & Oshaima <-.-> Hysera
     end
-    Tunudan <-->|Static WH| statics
+    subgraph pochven [Pochven]
+        Tunudan([Tunudan]) <--> Harva([Harva])
+        Kuharah([Kuharah]) <--> Tunudan
+        Tunudan:::nullsec
+        Harva:::nullsec
+        Kuharah:::nullsec
+    end
     classDef nullsec fill:#600,stroke:#000,color:#fff
     classDef lowsec fill:#660,stroke:#000,color:#fff
     classDef highsec fill:#060,stroke:#000,color:#fff
