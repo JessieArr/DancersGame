@@ -17,3 +17,13 @@ Below is a list of Trig space systems with maps of their static entry systems.
 
 ### Tunudan
 ![Tunudan](/images/eve/tunudan-statics.jpg)
+
+```mermaid
+
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+
+```
