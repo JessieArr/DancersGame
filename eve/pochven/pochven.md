@@ -1,8 +1,8 @@
-<-->
+---
 title: Pochven
 parent: EVE Online
 permalink: /eve/pochven
-<-->
+---
 1. TOC
 {:toc}
 ### Pochven
@@ -19,7 +19,7 @@ Below is a list of Trig space systems with maps of their static entry systems.
 ![Tunudan](/images/eve/tunudan-statics.jpg)
 
 ```mermaid
-graph LR
+graph TD
     subgraph pochven [Pochven]
         Tunudan([Tunudan]) <--> Harva([Harva])
         Kuharah([Kuharah]) <--> Tunudan
@@ -54,7 +54,7 @@ graph LR
         Huttaken <--> Halaima
         Oisio & Oshaima <--> Hysera
     end
-    pochven <-->|Static WH| statics
+    Tunudan <-->|Static WH| statics
     classDef nullsec fill:#600;
     classDef lowsec fill:#660;
     classDef highsec fill:#060;
