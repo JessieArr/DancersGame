@@ -55,7 +55,7 @@ graph TD
         Oisio & Oshaima <--> Hysera
     end
     Tunudan <-->|Static WH| statics
-    classDef nullsec fill:#600;
-    classDef lowsec fill:#660;
-    classDef highsec fill:#060;
+    classDef nullsec fill:#600,stroke:#000,color:#fff
+    classDef lowsec fill:#660,stroke:#000,color:#fff
+    classDef highsec fill:#060,stroke:#000,color:#fff
 ```
