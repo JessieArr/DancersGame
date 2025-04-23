@@ -19,6 +19,6 @@ This is a map.
   crossorigin=""
 ></script>
 
-<div id="game-map" style="height: 400px; width: 100%; margin: 1em 0;"></div>
+<div id="game-map" style="height: 7o00px; width: 100%; margin: 1em 0;"></div>
 
 <script src="/assets/js/abiotic-factor-map.js" />
