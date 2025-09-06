@@ -214,8 +214,7 @@ layout: table_wrappers
         {% endif %}
 
       </div>
-      {% if page.hide_comments %}
-      {% else %}
+      {% if page.show_comments %}
         <div id="disqus_thread"></div>
         <script>
             /**
@@ -234,7 +233,8 @@ layout: table_wrappers
             (d.head || d.body).appendChild(s);
             })();
         </script>
-        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>    
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      {% else %}
       {% endif %}
     </div>
 
