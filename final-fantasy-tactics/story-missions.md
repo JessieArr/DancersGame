@@ -34,11 +34,11 @@ Story missions for Final Fantasy Tactics.
 | Zeirchele Falls |  |  |
 | Castled City of Zaland |  |  |
 | Balias Tor |  |  |
-| Tchigolith Fenlands |  |  |
+| Tchigolith Fenlands | 20% chance of Pig enemy to tame - only chance before chapter 4 |  |
 | The Slums of Goug |  | Until Golgollada Gallows |
 | Balias Swale |  | Until Golgollada Gallows |
-| Golgollada Gallows |  | Until Golgollada Gallows |
-| At the Gate of Lionel Castle |  |  |
+| Golgollada Gallows | Steal Blood Sword from Gaffgarion | Until Golgollada Gallows |
+| At the Gate of Lionel Castle | Ramza 1v1 vs. Gaffgarion |  |
 | Inside of Lionel Castle |  |  |
 
 ## Chapter 3
@@ -54,7 +54,7 @@ Story missions for Final Fantasy Tactics.
 | Walled City of Yardrow |  |  |
 | The Yuguewood |  |  |
 | Riovanes Castle Gate |  | Until Chapter 4 |
-| Riovanes Castle Keep |  | Until Chapter 4 |
+| Riovanes Castle Keep | Ramza 1v1 with Wiegraf | Until Chapter 4 |
 | Riovanes Castle Roof | Hairband and Barette from Celia and Lettie | Until Chapter 4 |
 
 ## Chapter 4
