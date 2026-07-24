@@ -64,12 +64,12 @@ Story missions for Final Fantasy Tactics.
 | Dugeura Pass |  |  |
 | Free City of Bervenia | Steal Defender and Chantage from Meliadoul |  |
 | Finath Creek |  |  |
-| Outlying Church |  |  |
+| Outlying Church | Find Item: Assasin's Dagger + others |  |
 | Beddha Sandwaste | Steal Blaze Gun from Barich |  |
 | South Wall of Fort Besselat |  |  |
 | North Wall of Fort Besselat |  |  |
 | Fort Besselat Sluice Gate |  |  |
-| Mount Germinas |  |  |
+| Mount Germinas | Find Item: Invisibility Cloak |  |
 | Lake Poescas | Steal Artemis Bows from Archers |  |
 | Limberry Castle Gate |  |  |
 | Limberry Castle Keep | Steal Genji Set from Elmdore |  |
