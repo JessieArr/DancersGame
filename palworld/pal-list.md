@@ -62,3 +62,17 @@ permalink: /palworld/pal-list/
 | Wool | Cremis, Lamball, Melpaca |
 
 ## Party Pals
+
+### Drop Boosters
+
+| Target Pal Type | Drop-Boosting Pal(s) |
+|---|---|
+| Dark | Elphidran, Enchanted Sword |
+| Dragon | Cryolinx |
+| Electric | Menasting, Menasting Terra |
+| Fire | Faleris Aqua, Penking |
+| Grass | Blazehowl |
+| Ground | Vaelet |
+| Ice | Faleris |
+| Neutral | Blazehowl Noct, Katress |
+| Water | Fenglope Lux |
