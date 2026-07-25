@@ -2,6 +2,7 @@
 title: Pal List
 nav_order: 1
 parent: Palworld
+link_palworld_names: true
 permalink: /palworld/pal-list/
 ---
 1. TOC
