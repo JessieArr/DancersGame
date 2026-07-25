@@ -30,36 +30,38 @@ permalink: /palworld/pal-list/
 
 | Ranch Item | Pal(s) That Produce It |
 |---|---|
+| Arrow, Bone, Giga Sphere, Gold Coin, Hyper Sphere, Mega Sphere, Pal Sphere | Vixy |
+| Carrot Seeds, Lettuce Seeds, Onion Seeds, Potato Seeds, Tomato Seeds, Wheat Seeds | Vaelet |
 | Aquatic Pal Fluids | Kelpsea |
-| Arrow | Vixy |
-| Bone | Cawgnito, Sootseer, Vixy |
+| Bone | Cawgnito, Sootseer |
 | Caramel Cotton Candy | Woolipop Terra |
-| Carrot Seeds | Vaelet |
 | Cavern Mushroom | Shroomer |
 | Cotton Candy | Woolipop |
 | Egg | Chikipi |
 | Electric Organ | Sparkit |
 | Flame Organ | Flambelle, Kelpsea Ignis, Rooby |
-| Giga Sphere | Vixy |
-| Gold Coin | Dumud Gild, Mau, Vixy |
+| Gold Coin | Dumud Gild, Mau |
 | High Quality Cloth | Sibelyx, Sibelyx Primo |
 | High Quality Pal Oil | Dumud, Dumud Gild |
 | Honey | Beegarde |
-| Hyper Sphere | Vixy |
 | Ice Organ | Foxcicle, Mau Cryst |
 | Leather | Surfent |
-| Lettuce Seeds | Vaelet |
-| Mega Sphere | Vixy |
 | Milk | Mozzarina |
 | Mushroom | Shroomer |
-| Onion Seeds | Vaelet |
-| Pal Sphere | Vixy |
-| Potato Seeds | Vaelet |
 | Red Berries | Caprity |
-| Tomato Seeds | Vaelet |
 | Venom Gland | Caprity Noct, Depresso |
-| Wheat Seeds | Vaelet |
 | Wool | Cremis, Lamball, Melpaca |
+
+### Breeding
+
+| Pal | Requirement | Effect at 0★ → 4★ |
+|---|---|---|
+| Braloha | Deployed at base | Breeding Farm egg production 20% → 50% faster |
+| Broncherry | In party when collecting eggs | 35% → 45% chance of an Alpha Egg |
+| Broncherry Aqua | In party when collecting eggs | 45% → 55% chance of an Alpha Egg |
+| Dynamoff | Deployed at base | Incubation time reduced 20% → 40% |
+| Grintale | In party when collecting eggs | 50% → 75% chance of receiving an extra egg |
+| Omascul | In party while earning EXP | Party Pals gain 40% → 80% more EXP |
 
 ## Party Pals
 
