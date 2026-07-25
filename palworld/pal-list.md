@@ -53,16 +53,16 @@ permalink: /palworld/pal-list/
 | Venom Gland | Caprity Noct, Depresso |
 | Wool | Cremis, Lamball, Melpaca |
 
-### Breeding
+### Breeding & Leveling
 
-| Pal | Requirement | Effect at 0★ → 4★ |
+| Effect at 0★ → 4★ | Pal | Requirement |
 |---|---|---|
-| Braloha | Deployed at base | Breeding Farm egg production 20% → 50% faster |
-| Broncherry | In party when collecting eggs | 35% → 45% chance of an Alpha Egg |
-| Broncherry Aqua | In party when collecting eggs | 45% → 55% chance of an Alpha Egg |
-| Dynamoff | Deployed at base | Incubation time reduced 20% → 40% |
-| Grintale | In party when collecting eggs | 50% → 75% chance of receiving an extra egg |
-| Omascul | In party while earning EXP | Party Pals gain 40% → 80% more EXP |
+| Egg production 20% → 50% faster | Braloha | Deployed at base |
+| 35% → 45% chance of an Alpha Egg | Broncherry | In party when collecting eggs |
+| 45% → 55% chance of an Alpha Egg | Broncherry Aqua | In party when collecting eggs |
+| Incubation time reduced 20% → 40% | Dynamoff | Deployed at base |
+| 50% → 75% chance of extra egg | Grintale | In party when collecting eggs |
+| Party Pals gain 40% → 80% more EXP | Omascul | In party while earning EXP |
 
 ## Party Pals
 
