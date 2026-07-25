@@ -22,7 +22,9 @@ end
 Jekyll::Hooks.register([:pages, :posts], :pre_render) do |post|
     if post.data['link_palworld_names']
         puts "Replacing Palworld Names..." + post.data['title']
-        names = post.site.data['palworld_names'].map { |x| x['Name'] }.sort_by { |name| -name.length }
+        names = post.site.data['palworld_names'].map { |x| x['Name'] }
+        names += post.site.data['palworld_passive_names'].map { |x| x['Name'] }
+        names = names.sort_by { |name| -name.length }
         link_pattern = /(\[[^\]]+\]\([^)]+\)(?:\{:[^}]+\})?)/
         post.content = post.content.split(link_pattern).map.with_index do |segment, index|
             next segment if index.odd?
