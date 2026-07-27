@@ -79,3 +79,18 @@ permalink: /palworld/pal-list/
 | Ice | Faleris |
 | Neutral | Blazehowl Noct, Katress |
 | Water | Fenglope Lux |
+
+### Carrying Bonuses
+
+| Items Affected | Pal | 0★ → 4★ |
+|---|---|---|
+| Coal and Sulfur | Turtacle Terra | 80% → 100% |
+| Food and ingredients | Munchill | 30% → 60% |
+| Ore-category materials | Reptyro | 30% → 60% |
+| Ore-category materials, including Paldium | Reptyro Cryst | 35% → 65% |
+| Ordinary Ore | Turtacle | 80% → 100% |
+| Stone | Fuddler | 80% → 100% |
+| Weapons | Finsider Ignis | 60% → 100% |
+| Wood, Hardwood and Mythical Wood | Gumoss | 40% → 60% |
+| Carry Weight | Cattiva | +100 → +200 |
+| Carry Weight | Lunaris | +300 → +600 |
