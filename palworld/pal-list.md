@@ -94,3 +94,14 @@ permalink: /palworld/pal-list/
 | Wood, Hardwood and Mythical Wood | Gumoss | 40% → 60% |
 | Carry Weight | Cattiva | +100 → +200 |
 | Carry Weight | Lunaris | +300 → +600 |
+
+### Fishing Bonuses
+
+| Pal | Partner Skill | Fishing Bonus, Rank 1 → 5 |
+|---|---|---|
+| Jelliette | Jelliette Drop | Increases items obtained from fishing by 55% → 95% |
+| Gloopie | Sticky Princess | Capture gauge drains 12% → 35% more slowly when the bars do not overlap |
+| Whalaska | Chilled Whale Cruiser | Starts with 5% → 14% gauge and increases matching-bar progress by the same amount |
+| Whalaska Ignis | Cozy Whale Cruiser | Stronger version: 7% → 17% starting gauge and matching-bar progress |
+| Solmora | Charming Fish | Improves the chance of fishing up talented Pals |
+| Solmora Lux | Shocking Fish | Also improves the chance of fishing up talented Pals |
